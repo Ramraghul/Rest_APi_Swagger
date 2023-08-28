@@ -19,7 +19,7 @@ const option = {
                 url: 'https://google.com'
             },
             extensions: {
-                'x-organization': 'UITOUX'
+                'x-organization': 'Google'
             }
         },
         servers: [
