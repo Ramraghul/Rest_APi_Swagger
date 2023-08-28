@@ -12,7 +12,7 @@ const option = {
             contact: {
                 name: 'Raghul Shetty',
                 url: 'https://google.com',
-                email: 'raghul@uitoux.in',
+                email: 'raghulraghul111@gmail.com',
             },
             license: {
                 name: 'MIT License',
